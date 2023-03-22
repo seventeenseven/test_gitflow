@@ -1,3 +1,5 @@
 
 for x in range(10):
-    print("This is ", x)
+    if x > 8 :
+        print("This is ", x)
+print("END")
