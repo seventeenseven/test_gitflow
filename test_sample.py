@@ -1,4 +1,4 @@
-#Sample functions
+"""Sample functions"""
 def inc(num):
     return num + 1
 
