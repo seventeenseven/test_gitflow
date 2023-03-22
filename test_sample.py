@@ -1,5 +1,6 @@
-def inc(x):
-    return x + 1
+#Sample functions
+def inc(num):
+    return num + 1
 
 
 def test_answer():
